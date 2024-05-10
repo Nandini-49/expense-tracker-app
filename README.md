@@ -50,7 +50,7 @@ After login, users can:
 #### Clone the repository locally
 
 ```
-$ git clone https://github.com/ivyhungtw/expense-tracker.git
+$ git clone https://github.com/Nandini-49/expense-tracker-app.git
 ```
 
 #### Install project dependencies
